@@ -1,1 +1,1 @@
-[link](https://github.com/souljaking/github-slideshow)
+[link](https://github.com/souljaking)
